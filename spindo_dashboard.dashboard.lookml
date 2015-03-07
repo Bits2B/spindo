@@ -46,7 +46,7 @@
     stacking: ''
     
   - name: add_a_unique_name_696
-    title: Untitled Visualization
+    title: Segment- počet přidaných firem
     type: looker_bar
     model: spindo_test
     explore: users
@@ -74,7 +74,7 @@
     stacking: ''
     
   - name: add_a_unique_name_98
-    title: Untitled Visualization
+    title: Poslední přihlášení
     type: looker_bar
     model: spindo_test
     explore: users
@@ -102,7 +102,7 @@
     stacking: ''
     
   - name: add_a_unique_name_979
-    title: Untitled Visualization
+    title: Segment - přihlašovací frekvence
     type: looker_bar
     model: spindo_test
     explore: users
@@ -130,7 +130,7 @@
     stacking: ''
     
   - name: add_a_unique_name_485
-    title: Untitled Visualization
+    title: Užvatelé podle pohlaví
     type: looker_pie
     model: spindo_test
     explore: users
@@ -144,7 +144,7 @@
     colors: [blue, '#E645AB']
 
   - name: add_a_unique_name_284
-    title: Untitled Visualization
+    title: Počet aktivovaných v týdnu
     type: looker_line
     model: spindo_test
     explore: users
