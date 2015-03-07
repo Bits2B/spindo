@@ -1,4 +1,4 @@
-- view: users_view
+- view: users
   sql_table_name: spindo_tgt.users
 
   fields:
